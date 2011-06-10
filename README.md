@@ -20,10 +20,11 @@ python ./setup.py install
 Example
 -------
 
-	:::python
-	import bingtrans
-	bingtrans.set_app_id(YourAppID)  # you can get your AppID at: http://www.bing.com/developers/
-	print bingtrans.translate('hello', 'en', 'ko')
+~~~~.python
+import bingtrans
+bingtrans.set_app_id(YourAppID)  # you can get your AppID at: http://www.bing.com/developers/
+print bingtrans.translate('hello', 'en', 'ko')
+~~~~
 
 Homepage
 --------
