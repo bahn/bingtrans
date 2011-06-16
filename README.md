@@ -3,6 +3,8 @@ Bingtrans
 
 Bingtrans is a Python library for interfacing with Microsoft Translate API.
 
+Bingtrans is licensed under the [Apache Licence, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+
 Features
 --------
 
